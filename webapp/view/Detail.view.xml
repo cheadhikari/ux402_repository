@@ -1,7 +1,7 @@
 <mvc:View controllerName="student89.com.sap.training.ux402.repository.ux402repository.controller.Detail"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
-    <Page id="page" title="{i18n>title}">
+    <Page id="page" title="Detail">
         <content />
     </Page>
 </mvc:View>
